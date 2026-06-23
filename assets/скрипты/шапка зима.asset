@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec46ea12e0f2ef42bd0d15f8c4201b4, type: 3}
+  m_Name: "\u0448\u0430\u043F\u043A\u0430 \u0437\u0438\u043C\u0430"
+  m_EditorClassIdentifier: Assembly-CSharp::ClothingItem
+  itemName: "\u0448\u0430\u043F\u0430\u0437\u0438\u043C\u043A\u0430"
+  itemSprite: {fileID: 5474603940568549657, guid: d2c524757e8c0604aaf34d6ea3618d78, type: 3}
+  itemType: 0
